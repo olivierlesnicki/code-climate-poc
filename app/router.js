@@ -6,6 +6,15 @@ var Router = Ember.Router.extend({
 });
 
 Router.map(function() {
+  if(cool) {
+    if (!cool) {
+      if (cool) {
+        if (!cool) {
+          console.log(cool);
+        }
+      }
+    }
+  }
 });
 
 export default Router;
